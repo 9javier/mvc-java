@@ -8,3 +8,6 @@ https://www.mongodb.com/download-center/community?jmp=docs
 
 Driver Mongodb:
 https://mvnrepository.com/artifact/org.mongodb/mongo-java-driver/3.11.2
+
+Página AES ENCRYPT:
+https://aesencryption.net/#Java-aes-encryption-example
